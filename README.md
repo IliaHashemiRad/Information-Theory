@@ -111,9 +111,3 @@ Expected behavior:
 ## 👤 Author
 
 - **Ilia Hashemi Rad**
-
----
-
-## 📄 License
-
-This repository is currently provided for academic and educational use. Add a formal `LICENSE` file (e.g., MIT) if you plan to distribute or reuse the code publicly.
